@@ -10,7 +10,6 @@ This project establishes a comprehensive end-to-end data pipeline, spanning from
 - **Azure Data Factory**: Utilized for efficient data ingestion from the on-premise SQL Server to Azure Data Lake Gen2.
 - **Databricks**: Employed for robust and layered data processing.
 - **Azure Synapse Analytics**: Used for advanced analytics on the processed data.
-- **Power BI**: Integrated for dynamic reporting and visualization of insights.
 - **Security**: Reinforced through the implementation of Azure Active Directory and Key Vault.
 
 ## Documentation
