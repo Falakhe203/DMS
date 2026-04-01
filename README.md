@@ -7,7 +7,7 @@ CAP is an Azure SQL Managed Instance server which houses datasets from across th
 This project establishes a comprehensive end-to-end data pipeline, spanning from an on-premise SQL Server to Azure Data Lake Gen2. It is designed to showcase a variety of Azure services and their integration for a seamless data processing and analytics workflow.
 
 ## Key Components
-- **Azure Data Factory**: Utilized the Bulk Importer data pipeline for data ingestion from the on-premise SQL Server to Azure Data Lake Gen2.
+- **Azure Data Factory**: Utilized the Bulk Importer data pipeline for data ingestion from the on-premise SQL Server to Azure Data Lake.
 - **Databricks**: Employed for robust and layered data processing.
 - **Azure Synapse Analytics**: Used for advanced analytics on the processed data.
 - **Security**: Reinforced through the implementation of Azure Active Directory and Key Vault.
